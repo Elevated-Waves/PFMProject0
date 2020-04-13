@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="LLKOL6" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.7">
+<JUCERPROJECT id="LLKOL6" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.7"
+              pluginCharacteristicsValue="pluginIsSynth" pluginDesc="Trial 1"
+              pluginName="Elevated-Waves" pluginManufacturer="The Elevation "
+              pluginManufacturerCode="Leva">
   <MAINGROUP id="rdU3tB" name="PFMProject0">
     <GROUP id="{C19FA1FF-6289-7B71-BABD-B1ACE3A39A7C}" name="Source">
       <FILE id="Zk4enr" name="PluginProcessor.cpp" compile="1" resource="0"
